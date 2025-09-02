@@ -120,7 +120,7 @@ If you’d like to suggest improvements, please open an **issue**.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **[Your Name](https://github.com/your-Aan9758)**
+Made with ❤️ by **[Aman Saraswat](https://github.com/your-Aan9758)**
 ⭐ If you like this project, don’t forget to **star the repo**!
 
 ---
